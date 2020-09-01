@@ -28,6 +28,7 @@ class Logo extends React.Component {
           )}
       </div>
     );
+    //test comment
   }
 }
 export default Logo;
